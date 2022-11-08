@@ -1,3 +1,19 @@
 .b1{
     background-color:#1abc9c;
+    color: #ffffff;
 }
+.b2{
+    background-color: darkblue;
+    color: #ffffff;
+}
+.b3{
+background-color:#ffffff;
+color: #3d3a3a;
+}
+img-bird{
+    width:100%;
+}
+footer{
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
